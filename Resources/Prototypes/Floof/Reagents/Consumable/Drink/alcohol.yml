@@ -692,6 +692,29 @@
         factor: 3
 
 - type: reagent
+  id: LexisLastHope
+  name: reagent-name-lexislasthope
+  parent: BaseAlcohol
+  desc: reagent-desc-lexislasthope
+  physicalDesc: reagent-physical-desc-starry
+  flavor: lexislasthope
+  color: "#632de9"
+  metamorphicSprite:
+    sprite: Floof/Objects/Consumable/Drinks/lexislasthope.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 3
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  metabolisms:
+    Drink:
+      effects:
+      - !type:SatiateThirst
+        factor: 3
+      - !type:AdjustReagent
+        reagent: Ethanol
+        amount: 0.2
+
+- type: reagent
   id: LoversKiss
   name: reagent-name-loverskiss
   parent: BaseAlcohol
@@ -1112,6 +1135,29 @@
       - !type:AdjustReagent
         reagent: Ethanol
         amount: 0.03
+
+- type: reagent
+  id: TheSilverhand
+  name: reagent-name-thesilverhand
+  parent: BaseAlcohol
+  desc: reagent-desc-thesilverhand
+  physicalDesc: reagent-physical-desc-neural
+  flavor: thesilverhand
+  color: "#a19a9a"
+  metamorphicSprite:
+    sprite: Floof/Objects/Consumable/Drinks/thesilverhand.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  metabolisms:
+    Drink:
+      effects:
+      - !type:SatiateThirst
+        factor: 2
+      - !type:AdjustReagent
+        reagent: Ethanol
+        amount: 0.05
 
 - type: reagent
   id: SilverStallion

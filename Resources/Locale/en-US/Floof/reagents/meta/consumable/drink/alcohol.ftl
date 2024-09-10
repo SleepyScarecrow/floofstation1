@@ -88,6 +88,9 @@ reagent-desc-lamplight = This drink is known to have a very particular allure to
 reagent-name-lemonpopsicle = lemon popsicle
 reagent-desc-lemonpopsicle = An on-the-wagon cocktail, for those who just adore sour things. It is tradition to rim the glass with citric acid.
 
+reagent-name-lexislasthope = lexi's last hope
+reagent-desc-lexislasthope = For when everyone forgets you exist.
+
 reagent-name-loverskiss = lovers kiss
 reagent-desc-loverskiss = A simple, quick spin on some wine, pleasant and fruity.
 
@@ -141,6 +144,9 @@ reagent-desc-semenbomb = A drink that will make one feel like they have a full s
 
 reagent-name-semenhemorrhage = semen hemorrhage
 reagent-desc-semenhemorrhage = A succubi spin on a classic spooky shot.
+
+reagent-name-thesilverhand = the silverhand
+reagent-desc-thesilverhand = A tequila old fashioned with a splash of beer and a chili garnish. For the rockerboy who never gave up.
 
 reagent-name-silverstallion = silver stallion
 reagent-desc-silverstallion = A strong drink that'll put hair on your chest.

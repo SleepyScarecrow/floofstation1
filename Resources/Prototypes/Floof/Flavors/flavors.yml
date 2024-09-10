@@ -159,6 +159,11 @@
   description: flavor-complex-lemonpopsicle
 
 - type: flavor
+  id: lexislasthope
+  flavorType: Complex
+  description: flavor-complex-lexislasthope
+
+- type: flavor
   id: loverskiss
   flavorType: Complex
   description: flavor-complex-loverskiss
@@ -252,6 +257,11 @@
   id: semenhemorrhage
   flavorType: Complex
   description: flavor-complex-semenhemorrhage
+
+- type: flavor
+  id: thesilverhand
+  flavorType: Complex
+  description: flavor-complex-thesilverhand
 
 - type: flavor
   id: silverstallion

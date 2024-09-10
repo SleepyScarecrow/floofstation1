@@ -256,6 +256,22 @@
 
 - type: entity
   parent: DrinkGlass
+  id: DrinkLexisLastHopeGlass
+  suffix: lexi's last hope
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: LexisLastHope
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/lexislasthope.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
   id: DrinkLoversKissGlass
   suffix: lovers kiss
   components:
@@ -476,6 +492,22 @@
           Quantity: 30
   - type: Icon
     sprite: Floof/Objects/Consumable/Drinks/semenhemorrhage.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkTheSilverhandGlass
+  suffix: the silverhand
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: TheSilverhand
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/thesilverhand.rsi
     state: icon
 
 - type: entity
