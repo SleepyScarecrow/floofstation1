@@ -705,3 +705,189 @@ Entries:
         Psychologist.
   id: 96
   time: '2024-08-25T17:57:54.0000000+00:00'
+- author: cynical24
+  changes:
+    - type: Tweak
+      message: carpets now have proper naming schemes! :3
+    - type: Fix
+      message: >-
+        when crafting curtains/fancy tables, your entire stack of hard-earned
+        carpet will no longer be used all at once! :3
+  id: 97
+  time: '2024-08-26T13:20:19.0000000+00:00'
+- author: Memeji
+  changes:
+    - type: Add
+      message: added Dildos
+    - type: Add
+      message: added Fleshlights
+    - type: Add
+      message: added Vibrators
+  id: 98
+  time: '2024-08-27T02:25:12.0000000+00:00'
+- author: fenndragon
+  changes: []
+  id: 99
+  time: '2024-08-27T20:07:59.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: Added two new physical traits - weakness and lightweight
+  id: 100
+  time: '2024-08-29T14:51:40.0000000+00:00'
+- author: cynical24
+  changes:
+    - type: Fix
+      message: space dragons will now drop bodies upon being butchered :3
+  id: 101
+  time: '2024-08-30T05:07:01.0000000+00:00'
+- author: ShatteredSwords
+  changes:
+    - type: Add
+      message: Prize Ball Crates can now be ordered from the market
+  id: 102
+  time: '2024-08-31T00:59:49.0000000+00:00'
+- author: Memeji
+  changes:
+    - type: Add
+      message: Whips and Paddles
+    - type: Add
+      message: Holding sprites for all lewd items.
+  id: 103
+  time: '2024-08-31T01:02:03.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: Upstream merge. See the einstein-engines changelog tab for more details!
+  id: 104
+  time: '2024-08-31T20:33:10.0000000+00:00'
+- author: neuPanda
+  changes:
+    - type: Add
+      message: Sake Recipe
+  id: 105
+  time: '2024-09-01T18:52:34.0000000+00:00'
+- author: Tryded
+  changes:
+    - type: Fix
+      message: Fixed Glacier not having its Justice Roles
+  id: 106
+  time: '2024-09-01T18:53:22.0000000+00:00'
+- author: neuPanda
+  changes:
+    - type: Tweak
+      message: Roboticist Guide Book Text
+  id: 107
+  time: '2024-09-01T18:53:49.0000000+00:00'
+- author: Memeji
+  changes:
+    - type: Add
+      message: Whips and Paddles to lockers.
+  id: 108
+  time: '2024-09-01T18:55:37.0000000+00:00'
+- author: ShatteredSwords
+  changes:
+    - type: Tweak
+      message: Many trait costs have been cheapened, some traits have been changed.
+  id: 109
+  time: '2024-09-01T23:06:43.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        The vampirism trait now changes your body's metabolism to the vampiric
+        type, making you unable to eat normal food and requiring you to drink
+        blood to survive.
+    - type: Add
+      message: >-
+        A new "hollow fangs" trait has been added. It simply allows you to suck
+        (and metabolize) blood, without the benefits and drawbacks of being a
+        vampire.
+  id: 110
+  time: '2024-09-02T03:14:35.0000000+00:00'
+- author: Xavier
+  changes:
+    - type: Add
+      message: Pulled Health Analyzer UI updates from Wizden
+  id: 111
+  time: '2024-09-03T20:00:55.0000000+00:00'
+- author: Memeji
+  changes:
+    - type: Add
+      message: Red Canine Dildo
+    - type: Tweak
+      message: Sex Toys can be recycled and sold.
+    - type: Tweak
+      message: Sex Toy Crate price increased to 2000.
+  id: 112
+  time: '2024-09-03T20:08:29.0000000+00:00'
+- author: ShatteredSwords
+  changes:
+    - type: Fix
+      message: You can now be headpat and not be referred to in the third person.
+  id: 113
+  time: '2024-09-03T21:33:48.0000000+00:00'
+- author: Fansana
+  changes:
+    - type: Add
+      message: Added colorful glowing gems
+  id: 114
+  time: '2024-09-03T21:53:54.0000000+00:00'
+- author: neuPanda
+  changes:
+    - type: Add
+      message: new cryo chems
+    - type: Tweak
+      message: old cryo chems
+    - type: Fix
+      message: death
+    - type: Remove
+      message: metabolism restrictions
+  id: 115
+  time: '2024-09-04T05:12:40.0000000+00:00'
+- author: Memeji
+  changes:
+    - type: Fix
+      message: Survival not creating events.
+  id: 116
+  time: '2024-09-05T04:20:01.0000000+00:00'
+- author: Xavier and Satchmo
+  changes:
+    - type: Add
+      message: Spider Language, with translators and implants!
+  id: 117
+  time: '2024-09-05T04:21:07.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Upstream merge. See the einstein-engines tab for more details. Most
+        notably, jukeboxes are now a thing!
+  id: 118
+  time: '2024-09-08T15:57:40.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/178
+- author: fenndragon
+  changes:
+    - type: Add
+      message: a collection of Passive Xenos
+    - type: Add
+      message: >-
+        several New friendly Xeno experimental subjects much like
+        Friend-shaped. 
+  id: 119
+  time: '2024-09-09T02:04:05.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/145
+- author: ShatteredSwords
+  changes:
+    - type: Add
+      message: Added admin-spawnable-only map with ghost roles.
+  id: 120
+  time: '2024-09-09T05:30:39.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/155
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Hotfixed some job requirements with logical OR.
+  id: 121
+  time: '2024-09-09T14:50:53.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/181

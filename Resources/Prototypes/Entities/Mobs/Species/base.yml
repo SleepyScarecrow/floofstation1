@@ -182,11 +182,6 @@
   - type: Scent
   - type: MindContainer
     showExamineInfo: true
-  - type: InteractionPopup
-    successChance: 1
-    interactSuccessString: hugging-success-generic
-    interactSuccessSound: /Audio/Effects/thudswoosh.ogg
-    messagePerceivedByOthers: hugging-success-generic-others
   - type: CanHostGuardian
   - type: NpcFactionMember
     factions:
@@ -313,6 +308,9 @@
     alternateState: Standing
   - type: OfferItem
   - type: LayingDown
+  - type: Shoving
+  - type: BloodstreamAffectedByMass
+    power: 0.6 # A minimum size felinid will have 30% blood, a minimum size vulp will have 60%, a maximum size oni will have ~200%
 
 - type: entity
   save: false

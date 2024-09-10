@@ -110,7 +110,7 @@ trait-description-Tenacity =
 trait-name-GlassJaw = Glass Jaw
 trait-description-GlassJaw =
     Your body is more fragile than others, resulting in a greater susceptibility to critical injuries
-    Your damage threshold for becoming Critical is decreased by 10 points.
+    Your damage threshold for becoming Critical is decreased by 7 points.
 
 trait-name-HighAdrenaline = High Adrenaline
 trait-description-HighAdrenaline =
@@ -202,3 +202,23 @@ trait-description-LatentPsychic =
     Your mind and soul are open to the noosphere, allowing for use of Telepathy.
     Thus, you are eligible for potentially receiving psychic powers.
     It is possible that you may be hunted by otherworldly forces, so consider keeping your powers a secret.
+
+trait-name-PsionicInsulation = χ Waveform Misalignment
+trait-description-PsionicInsulation =
+    You are a flesh automaton animated by neurotransmitters. Within your skull lies a
+    1.5kg sack of meat pretending at sentience. By modern epistemiological theory, you aren't even a sophont.
+    The good news is that you are immune to most positive and negative effects of psychic powers.
+    There may be other consequences to this malady.
+
+trait-name-NaturalTelepath = Natural Telepath
+trait-description-NaturalTelepath =
+    As a naturally occuring Telepath, you are capable of fluent telepathic communication, regardless of
+    whether or not you possess any notable psychic powers. This offers all of the same benefits and
+    drawbacks of Latent Psychic, except that you are guaranteed to start with full Telepathy. You may
+    still gain powers as normal for a Latent Psychic.
+
+trait-name-AnomalousPositronics = Anomalous Positronics
+trait-description-AnomalousPositronics =
+    Whether by intentional design from the manufacturer, black market modifications, or accidental omission,
+    your positronic brain lacks its standard psionic insulation. As a being that can be argued to have a soul,
+    this by extension means that it is possible for you to be influenced by the Noosphere.
