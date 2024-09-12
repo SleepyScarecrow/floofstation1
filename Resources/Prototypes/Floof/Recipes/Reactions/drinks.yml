@@ -53,6 +53,20 @@
     BandE: 3
 
 - type: reaction
+  id: BetweenTheSheets
+  reactants:
+    Cognac:
+      amount: 2
+    JuiceLemon:
+      amount: 1
+    Rum:
+      amount: 2
+    Whiskey:
+      amount: 2
+  products:
+    BetweenTheSheets: 7
+
+- type: reaction
   id: BethanysCumLust
   reactants:
     Cum:
@@ -73,6 +87,18 @@
       amount: 3
   products:
     BethanysSluttyCumLust: 14
+
+- type: reaction
+  id: BloodyAddiction
+  reactants:
+    Blood:
+      amount: 1
+    Cum:
+      amount: 1
+    JuiceOrange:
+      amount: 1
+  products:
+    BloodyAddiction: 3
 
 - type: reaction
   id: BlueBaller
@@ -155,6 +181,7 @@
       amount: 5
   products:
     DarkOasis: 10
+
 - type: reaction
   id: DeadMansDraught
   reactants:
@@ -322,7 +349,7 @@
 - type: reaction
   id: HornyStallion
   reactants:
-    Coffee:
+    CoffeeLiqueur:
       amount: 1
     Libidozenithizine:
       amount: 1
@@ -330,6 +357,18 @@
       amount: 1
   products:
     HornyStallion: 3
+
+- type: reaction
+  id: TheJackieWelles
+  reactants:
+    Beer:
+      amount: 1
+    JuiceLime:
+      amount: 1
+    Vodka:
+      amount: 1
+  products:
+    TheJackieWelles: 3
 
 - type: reaction
   id: KoboldKooler
@@ -560,7 +599,7 @@
 - type: reaction
   id: RandyStallion
   reactants:
-    Coffee:
+    CoffeeLiqueur:
       amount: 1
     Pomelustine:
       amount: 1
@@ -582,6 +621,17 @@
       amount: 2
   products:
     RedRocket: 6
+
+- type: reaction
+  id: Sake
+  reactants:
+    Rice:
+      amount: 1
+    Enzyme:
+      amount: 1
+      catalyst: true
+  products:
+    Sake: 1
 
 - type: reaction
   id: SalvagersDelight
@@ -638,7 +688,7 @@
 - type: reaction
   id: SilverStallion
   reactants:
-    Coffee:
+    CoffeeLiqueur:
       amount: 1
     Cum:
       amount: 1
@@ -659,6 +709,17 @@
   products:
     SlimesDelight: 3
 
+- type: reaction
+  id: Skooma
+  reactants:
+    FourteenLoko:
+      amount: 1
+    Moonshine:
+      amount: 1
+    Sugar:
+      amount: 1
+  products:
+    Skooma: 3
 
 - type: reaction
   id: Snowball
@@ -671,6 +732,16 @@
       amount: 1
   products:
     Snowball: 4
+
+- type: reaction
+  id: TheSocialistSail
+  reactants:
+    RootBeerFloat:
+      amount: 2
+    Vodka:
+      amount: 1
+  products:
+    TheSocialistSail: 3
 
 - type: reaction
   id: SpecialSundae
@@ -695,6 +766,28 @@
       amount: 1
   products:
     SyndicatesOverseer: 6
+
+- type: reaction
+  id: SyndicatesShiv
+  reactants:
+    Blood:
+      amount: 2
+    JuiceBerry:
+      amount: 1
+  products:
+    SyndicatesShiv: 3
+
+- type: reaction
+  id: TechnicalProblem
+  reactants:
+    Cellulose:
+      amount: 1
+    JuiceLime:
+      amount: 1
+    Whiskey:
+      amount: 1
+  products:
+    TechnicalProblem: 3
 
 - type: reaction
   id: TripleCitrus
@@ -775,6 +868,18 @@
     WhiskeySour: 15
 
 - type: reaction
+  id: WillowsWisp
+  reactants:
+    BlueCuracao:
+      amount: 1
+    Grenadine:
+      amount: 1
+    Vodka:
+      amount: 1
+  products:
+    WillowsWisp: 3
+
+- type: reaction
   id: YeOlHandy
   reactants:
     Ice:
@@ -787,14 +892,3 @@
       amount: 1
   products:
     YeOlHandy: 5
-
-- type: reaction
-  id: Sake
-  reactants:
-    Rice:
-      amount: 1
-    Enzyme:
-      amount: 1
-      catalyst: true
-  products:
-    Sake: 1

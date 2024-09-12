@@ -78,13 +78,13 @@ reagent-physical-desc-skunky = skunky
 reagent-physical-desc-slimy = slimy
 reagent-physical-desc-neural = neural
 ## Floof
+reagent-physical-desc-cold-crunchy-sticky = cold, crunchy, and sticky
+reagent-physical-desc-dirty = dirty
 reagent-physical-desc-earthy = earthy
 reagent-physical-desc-ethereal-brass = ethereal brass
-reagent-physical-desc-smooth = smooth
-reagent-physical-desc-cold-crunchy-sticky = cold, crunchy, and sticky
-reagent-physical-desc-fizzy-smooth-citrussy = fizzy, smooth, and citrussy
 reagent-physical-desc-fizzy-sharp-citrussy = fizzy, sharp, and citrussy
-reagent-physical-desc-dirty = dirty
+reagent-physical-desc-fizzy-smooth-citrussy = fizzy, smooth, and citrussy
+reagent-physical-desc-smooth = smooth
 reagent-physical-desc-soapy = soapy
 reagent-physical-desc-soothing = soothing
 reagent-physical-desc-sour = sour

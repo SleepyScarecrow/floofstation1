@@ -13,11 +13,17 @@ reagent-desc-appleberryfizz = A sweet, delightful little drink.
 reagent-name-bande = b&e
 reagent-desc-bande = A mischevious, dark drink, with a splash of bodily fluids.
 
+reagent-name-betweenthesheets = between the sheets
+reagent-desc-betweenthesheets = Very few drinks call for sugar on the rim, an excellent after-dinner drink.
+
 reagent-name-bethanyscumlust = bethany's cum-lust
 reagent-desc-bethanyscumlust = Named after a very particularly fiesty member of the crew within the Floof sector.
 
 reagent-name-bethanyssluttycumlust = bethany's slutty cum-lust
 reagent-desc-bethanyssluttycumlust = For those looking for an even more intense version.
+
+reagent-name-bloodyaddiction = bloody addiction
+reagent-desc-bloodyaddiction = A colourful bundle of bodily fluids, both of which can be enticing.
 
 reagent-name-blueballer = blue baller
 reagent-desc-blueballer = For those love-shy workers.
@@ -75,6 +81,9 @@ reagent-desc-holyvice = Despite seeming somewhat contrary, the ingredients of th
 
 reagent-name-hornystallion = horny stallion
 reagent-desc-hornystallion = A drink with a strong effect on anyone stupid enough to take it. Either served as a shot or a full glass, for those who are more risky.
+
+reagent-name-thejackiewelles = the jackie welles
+reagent-desc-thejackiewelles = The most important ingredient: A splash of love.
 
 reagent-name-koboldkooler = kobold kooler
 reagent-desc-koboldkooler = A cool, soothing drink for the cold-blooded amongst the crew.
@@ -154,14 +163,26 @@ reagent-desc-silverstallion = A strong drink that'll put hair on your chest.
 reagent-name-slimesdelight = slime's delight
 reagent-desc-slimesdelight = A somewhat gross drink for many people to imagine consuming. Most end up ordering something else.
 
+reagent-name-skooma = skooma
+reagent-desc-skooma = This one has something sweet for the fellow traveler, if it entices.
+
 reagent-name-snowball = snowball
 reagent-desc-snowball = A sweet mix of a snowcone, with a very special kind of syrup.
+
+reagent-name-thesocialistsail = the socialist sail
+reagent-desc-thesocialistsail = A delicious mix of sweetness and vodka, suggesting the possible sweetness of socialism.
 
 reagent-name-specialsundae = special sundae
 reagent-desc-specialsundae = A pleasing enouhg mix of ice cream and pomegranate-- with one extra ingredient, in place of the nuts.
 
 reagent-name-syndicatesoverseer = syndicate's overseer
 reagent-desc-syndicatesoverseer = This drink is menacing, you don't even know if you should be drinking this or not.
+
+reagent-name-syndicatesshiv = syndicate's shiv
+reagent-desc-syndicatesshiv = A surprisingly non-alcoholic drink, instead replacing the burn of liquor with the metallic taste of blood.
+
+reagent-name-technicalproblem = technical problem
+reagent-desc-technicalproblem = A drink for a certain central commander passenger onboard. Has bits and pieces of paper sprinkled on top.
 
 reagent-name-triplecitrus = triple citrus
 reagent-desc-triplecitrus = Triple the citrus, triple the fun.
@@ -180,6 +201,9 @@ reagent-desc-thewaterslide = Charcoal not included for you, o naughty one.
 
 reagent-name-whiskeysour = whiskey sour
 reagent-desc-whiskeysour = Shelter from the Noöspheric Storm.
+
+reagent-name-willowswisp = willow's wisp
+reagent-desc-willowswisp = Best enjoyed under the late nights sky of a bog, though you shouldn't get distracted by foolish flames.
 
 reagent-name-yeolhandy = ye ol handy
 reagent-desc-yeolhandy = The loner's choice, cold as their bed.

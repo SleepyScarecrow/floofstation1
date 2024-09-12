@@ -24,6 +24,11 @@
   description: flavor-complex-bande
 
 - type: flavor
+  id: betweenthesheets
+  flavorType: Complex
+  description: flavor-complex-betweenthesheets
+
+- type: flavor
   id: bethanyscumlust
   flavorType: Complex
   description: flavor-complex-bethanyscumlust
@@ -37,6 +42,11 @@
   id: blooddrop
   flavorType: Complex
   description: flavor-complex-blooddrop
+
+- type: flavor
+  id: bloodyaddiction
+  flavorType: Complex
+  description: flavor-complex-bloodyaddiction
 
 - type: flavor
   id: blueballer
@@ -137,6 +147,11 @@
   id: hornystallion
   flavorType: Complex
   description: flavor-complex-hornystallion
+
+- type: flavor
+  id: thejackiewelles
+  flavorType: Complex
+  description: flavor-complex-thejackiewelles
 
 - type: flavor
   id: koboldkooler
@@ -269,9 +284,19 @@
   description: flavor-complex-silverstallion
 
 - type: flavor
+  id: skooma
+  flavorType: Complex
+  description: flavor-complex-skooma
+
+- type: flavor
   id: snowball
   flavorType: Complex
   description: flavor-complex-snowball
+
+- type: flavor
+  id: thesocialistsail
+  flavorType: Complex
+  description: flavor-complex-thesocialistsail
 
 - type: flavor
   id: specialsundae
@@ -292,6 +317,16 @@
   id: syndicatesoverseer
   flavorType: Complex
   description: flavor-complex-syndicatesoverseer
+
+- type: flavor
+  id: syndicatesshiv
+  flavorType: Complex
+  description: flavor-complex-syndicatesshiv
+
+- type: flavor
+  id: technicalproblem
+  flavorType: Complex
+  description: flavor-complex-technicalproblem
 
 - type: flavor
   id: triplecitrus
@@ -327,6 +362,11 @@
   id: whitechocolatechip
   flavorType: Complex
   description: flavor-complex-whitechocolatechip
+
+- type: flavor
+  id: willowswisp
+  flavorType: Complex
+  description: flavor-complex-willowswisp
 
 - type: flavor
   id: yeolhandy

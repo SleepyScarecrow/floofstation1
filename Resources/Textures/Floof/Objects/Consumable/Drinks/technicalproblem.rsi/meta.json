@@ -5,7 +5,7 @@
         "y": 32
     },
     "license": "CC-BY-3.0",
-    "copyright": "dakodragon, DiscordID: 56038550335922176",
+    "copyright": "Spirted by Tech Coarse, DiscordID: 158748241356128256",
     "states": [
         {
             "name": "icon"
@@ -21,6 +21,9 @@
         },
         {
             "name": "fill-3"
+        },
+        {
+            "name": "fill-4"
         }
     ]
 }

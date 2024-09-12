@@ -16,6 +16,38 @@
 
 - type: entity
   parent: DrinkGlass
+  id: DrinkBetweenThesheetsGlass
+  suffix: bloody addiction
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: BetweenTheSheets
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/betweenthesheets.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkBloodyAddictionGlass
+  suffix: bloody addiction
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: BloodyAddction
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/bloodyaddiction.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
   id: DrinkBlueBallerGlass
   suffix: blue baller
   components:
@@ -188,6 +220,22 @@
           Quantity: 30
   - type: Icon
     sprite: Floof/Objects/Consumable/Drinks/hornystallion.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkTheJackieWellesGlass
+  suffix: the jackie welles
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: TheJackieWelles
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/thejackiewelles.rsi
     state: icon
 
 - type: entity
@@ -528,8 +576,40 @@
 
 - type: entity
   parent: DrinkGlass
+  id: DrinkSkoomaGlass
+  suffix: skooma
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: Skooma
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/skooma.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkTheSocialistSailGlass
+  suffix: skooma
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: TheSocialistSail
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/thesocialistsail.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
   id: DrinkSyndicatesOverseerGlass
-  suffix: syndicates's overseer
+  suffix: syndicate's overseer
   components:
   - type: SolutionContainerManager
     solutions:
@@ -540,6 +620,38 @@
           Quantity: 30
   - type: Icon
     sprite: Floof/Objects/Consumable/Drinks/syndicatesoverseer.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkSyndicatesShivGlass
+  suffix: syndicate's shiv
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: SyndicatesShiv
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/syndicatesshiv.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkTechnicalProblemGlass
+  suffix: technical problem
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: TechnicalProblem
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/technicalproblem.rsi
     state: icon
 
 - type: entity
@@ -588,6 +700,22 @@
           Quantity: 30
   - type: Icon
     sprite: Floof/Objects/Consumable/Drinks/whiskeysour.rsi
+    state: icon
+
+- type: entity
+  parent: DrinkGlass
+  id: DrinkWillowsWispGlass
+  suffix: willow's wisp
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: WillowsWisp
+          Quantity: 30
+  - type: Icon
+    sprite: Floof/Objects/Consumable/Drinks/willowswisp.rsi
     state: icon
 
 - type: entity
