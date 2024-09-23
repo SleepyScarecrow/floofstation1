@@ -41,6 +41,18 @@
     AppleberryFizz: 3
 
 - type: reaction
+  id: AxelsAle
+  reactants:
+    Ale:
+      amount: 1
+    Rum:
+      amount: 1
+    Pomelustine:
+      amount: 1
+  products:
+    AxelsAle: 3
+
+- type: reaction
   id: BandE
   reactants:
     BlackRussian:
@@ -169,6 +181,16 @@
       amount: 2
   products:
     CremeDeCacao: 4
+
+- type: reaction
+  id: TheCuteCaptain
+  reactants:
+    Tea:
+      amount: 2
+    Pomelustine:
+      amount: 1
+  products:
+    TheCuteCaptain: 3
 
 - type: reaction
   id: DarkOasis
@@ -323,6 +345,18 @@
     GrandNavy: 3
 
 - type: reaction
+  id: Hallelujah
+  reactants:
+    Wine:
+      amount: 2
+    Water:
+      amount: 3
+    LotophagoiOil:
+      amount: 1
+  products:
+    Hallelujah : 6
+
+- type: reaction
   id: HeartbreakMountain
   reactants:
     EnergyDrink:
@@ -369,6 +403,18 @@
       amount: 1
   products:
     TheJackieWelles: 3
+
+- type: reaction
+  id: JennTonic
+  reactants:
+    Ice:
+      amount: 1
+    Whiskey:
+      amount: 1
+    TonicWater:
+      amount: 1
+  products:
+    JennTonic: 3
 
 - type: reaction
   id: KoboldKooler
@@ -892,50 +938,3 @@
       amount: 1
   products:
     YeOlHandy: 5
-
-- type: reaction
-  id: TheCuteCaptain
-  reactants:
-    Tea:
-      amount: 2
-    Pomelustine:
-      amount: 1
-  products:
-    TheCuteCaptain: 3
-
-- type: reaction
-  id: AxelsAle
-  reactants:
-    Ale:
-      amount: 1
-    Rum:
-      amount: 1
-    Pomelustine:
-      amount: 1
-  products:
-    AxelsAle: 3
-
-- type: reaction
-  id: JennTonic
-  reactants:
-    Ice:
-      amount: 1
-    Whiskey:
-      amount: 1
-    TonicWater:
-      amount: 1
-  products:
-    JennTonic: 3
-
-- type: reaction
-  id: Hallelujah
-  reactants:
-    Wine:
-      amount: 2
-    Water:
-      amount: 3
-    LotophagoiOil:
-      amount: 1
-  products:
-    Hallelujah : 6
-

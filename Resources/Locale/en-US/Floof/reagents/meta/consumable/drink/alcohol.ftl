@@ -10,6 +10,9 @@ reagent-desc-anisette = Liquor made of anise and sugar, typically used as a swee
 reagent-name-appleberryfizz = appleberry fizz
 reagent-desc-appleberryfizz = A sweet, delightful little drink.
 
+reagent-name-axels-ale = Axel's Ale
+reagent-desc-axels-ale = Red like the color of a setting sun on a beach
+
 reagent-name-bande = b&e
 reagent-desc-bande = A mischevious, dark drink, with a splash of bodily fluids.
 
@@ -36,6 +39,9 @@ reagent-desc-calicosunrise = A sweet, fruity beverage that feels like watching t
 
 reagent-name-cremedecacao = crème de cacao
 reagent-desc-cremedecacao = A spiked hot chocolate, satisfying to anyone caught out in the snow.
+
+reagent-name-the-cute-captain = The Cute Captain
+reagent-desc-the-cute-captain = Light blue liquid with a sweet floral scent and a hint of pomegranate
 
 reagent-name-darkoasis = dark oasis
 reagent-desc-darkoasis = The darker it looks the sweeter it tastes.
@@ -73,6 +79,9 @@ reagent-desc-goldbloomspecial = The tried and true method coined by a pair of br
 reagent-name-grandnavy = grand navy
 reagent-desc-grandnavy = The inventor of this drink said they came from the place called 'The War Seas', maybe they were going crazy.
 
+reagent-name-hallelujah = Hallelujah
+reagent-desc-hallelujah = Exactly what you need.
+
 reagent-name-heartbreakmountain = heartbreak mountain
 reagent-desc-heartbreakmountain = A mix of incredible carbonation, designed to make your mouth forget whatever was in it previously.
 
@@ -84,6 +93,9 @@ reagent-desc-hornystallion = A drink with a strong effect on anyone stupid enoug
 
 reagent-name-thejackiewelles = the jackie welles
 reagent-desc-thejackiewelles = The most important ingredient: A splash of love.
+
+reagent-name-jenn-tonic = Jenn in Tonic
+reagent-desc-jenn-tonic = Light golden and bubbly, what could go wrong?
 
 reagent-name-koboldkooler = kobold kooler
 reagent-desc-koboldkooler = A cool, soothing drink for the cold-blooded amongst the crew.
@@ -207,15 +219,3 @@ reagent-desc-willowswisp = Best enjoyed under the late nights sky of a bog, thou
 
 reagent-name-yeolhandy = ye ol handy
 reagent-desc-yeolhandy = The loner's choice, cold as their bed.
-
-reagent-name-the-cute-captain = The Cute Captain
-reagent-desc-the-cute-captain = Light blue liquid with a sweet floral scent and a hint of pomegranate
-
-reagent-name-axels-ale = Axel's Ale
-reagent-desc-axels-ale = Red like the color of a setting sun on a beach
-
-reagent-name-jenn-tonic = Jenn in Tonic
-reagent-desc-jenn-tonic = Light golden and bubbly, what could go wrong?
-
-reagent-name-hallelujah = Hallelujah
-reagent-desc-hallelujah = Exactly what you need.
