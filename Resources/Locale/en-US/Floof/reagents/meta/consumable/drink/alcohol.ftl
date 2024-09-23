@@ -207,3 +207,15 @@ reagent-desc-willowswisp = Best enjoyed under the late nights sky of a bog, thou
 
 reagent-name-yeolhandy = ye ol handy
 reagent-desc-yeolhandy = The loner's choice, cold as their bed.
+
+reagent-name-the-cute-captain = The Cute Captain
+reagent-desc-the-cute-captain = Light blue liquid with a sweet floral scent and a hint of pomegranate
+
+reagent-name-axels-ale = Axel's Ale
+reagent-desc-axels-ale = Red like the color of a setting sun on a beach
+
+reagent-name-jenn-tonic = Jenn in Tonic
+reagent-desc-jenn-tonic = Light golden and bubbly, what could go wrong?
+
+reagent-name-hallelujah = Hallelujah
+reagent-desc-hallelujah = Exactly what you need.

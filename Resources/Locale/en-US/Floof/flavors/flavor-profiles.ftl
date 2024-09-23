@@ -73,3 +73,7 @@ flavor-complex-whiskeysour = sour and like molasses
 flavor-complex-whitechocolatechip = like white chocolate chips
 flavor-complex-willowswisp = like a trick of the light
 flavor-complex-yeolhandy = like oranges and solitude
+flavor-complex-thecutecaptain = like moonlight
+flavor-complex-axelsale = like a long day on the frontier
+flavor-complex-jenntonic = sweet with a hidden bite
+flavor-complex-hallelujah = a moment of peace

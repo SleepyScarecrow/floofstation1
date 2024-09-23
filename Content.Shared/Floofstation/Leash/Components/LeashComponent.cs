@@ -47,27 +47,6 @@ public sealed partial class LeashComponent : Component
     public TimeSpan PullInterval = TimeSpan.FromSeconds(1.5f);
 
     /// <summary>
-    ///     How much damage each leash joint can sustain before it breaks.
-    /// </summary>
-    /// <remarks>Not currently implemented; needs to be reworked in order to work.</remarks>
-    [DataField, AutoNetworkedField]
-    public float BreakDamage = 20f;
-
-    /// <summary>
-    ///     How much damage each leash joint loses every <see cref="DamageInterval"/>.
-    /// </summary>
-    /// <remarks>Not currently implemented; needs to be reworked in order to work.</remarks>
-    [DataField, AutoNetworkedField]
-    public float JointRepairDamage = 1f;
-
-    /// <summary>
-    ///     Interval at which damage is calculated for each joint.
-    /// </summary>
-    /// <remarks>Not currently implemented; needs to be reworked in order to work.</remarks>
-    [DataField, AutoNetworkedField]
-    public TimeSpan DamageInterval = TimeSpan.FromMilliseconds(200);
-
-    /// <summary>
     ///     List of all joints and their respective pulled entities created by this leash.
     /// </summary>
     [DataField, AutoNetworkedField]
@@ -76,8 +55,12 @@ public sealed partial class LeashComponent : Component
     [DataDefinition, Serializable, NetSerializable]
     public sealed partial class LeashData
     {
+        /// <summary>
+        ///     Id of the joint created by this leash. May be null if this leash does not currently create a joint
+        ///     (e.g. because it's attached to the same entity who holds it)
+        /// </summary>
         [DataField]
-        public string JointId = string.Empty;
+        public string? JointId = null;
 
         [DataField]
         public NetEntity Pulled = NetEntity.Invalid;
@@ -88,13 +71,7 @@ public sealed partial class LeashComponent : Component
         [DataField]
         public NetEntity? LeashVisuals = null;
 
-        [DataField]
-        public float Damage = 0f;
-
-        [DataField]
-        public TimeSpan NextDamage = TimeSpan.Zero;
-
-        public LeashData(string jointId, NetEntity pulled)
+        public LeashData(string? jointId, NetEntity pulled)
         {
             JointId = jointId;
             Pulled = pulled;
