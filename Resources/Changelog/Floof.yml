@@ -1028,3 +1028,204 @@ Entries:
   id: 138
   time: '2024-09-23T21:04:33.0000000+00:00'
   url: https://github.com/Fansana/floofstation1/pull/204
+- author: ShatteredSwords
+  changes:
+    - type: Tweak
+      message: Felinids can now be multiple colors instead of human colors.
+  id: 139
+  time: '2024-09-24T06:41:43.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/202
+- author: Memeji
+  changes:
+    - type: Tweak
+      message: Depth changed from 8 to 9.
+  id: 140
+  time: '2024-09-25T04:21:11.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/206
+- author: Memeji
+  changes:
+    - type: Remove
+      message: Omen Item Artifacts.
+  id: 141
+  time: '2024-09-25T22:17:16.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/207
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: The NEIL announcer can once again appear in a shift.
+  id: 142
+  time: '2024-09-25T22:19:49.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/209
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: Upstream merge. See the Einstein-Engines changelog tab for more details.
+  id: 143
+  time: '2024-09-27T20:51:44.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/212
+- author: Memeji
+  changes:
+    - type: Add
+      message: The Rodentia species can now be played in Floof.
+  id: 144
+  time: '2024-09-27T21:51:34.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/208
+- author: Eagle0600
+  changes:
+    - type: Add
+      message: 'Lighthouse: Added cryogenics to medbay.'
+    - type: Remove
+      message: 'Lighthouse: Replaced the medbay cryosleep room with cryogenics.'
+    - type: Fix
+      message: >-
+        Lighthouse: That one wall light in medbay next to maintenance now has
+        power.
+  id: 145
+  time: '2024-09-28T03:48:03.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/211
+- author: Fansana
+  changes:
+    - type: Tweak
+      message: Somebody fucked up the salvage shuttle
+  id: 146
+  time: '2024-09-28T11:51:55.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/215
+- author: neuPanda
+  changes:
+    - type: Add
+      message: Kiss an Lick
+  id: 147
+  time: '2024-09-29T02:41:17.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/179
+- author: Fansana
+  changes:
+    - type: Tweak
+      message: nerf reagent slimes
+  id: 148
+  time: '2024-09-29T17:16:22.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/218
+- author: fenndragon
+  changes:
+    - type: Tweak
+      message: 'Tweaked spawn rates of Various Ventcritter Spawn events '
+  id: 149
+  time: '2024-09-29T18:26:23.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/219
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Loadouts have been expanded with leashes, remote signalers, shock
+        collars, and a wide variety of lewd items.
+  id: 150
+  time: '2024-10-01T16:14:39.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/217
+- author: Fansana
+  changes:
+    - type: Fix
+      message: Fix the disposal pipe ejection to space and after pipe bends.
+  id: 151
+  time: '2024-10-01T17:33:39.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/220
+- author: Xavier
+  changes:
+    - type: Tweak
+      message: >-
+        Lepo now has a 10 degree buffer between it's heating and cooling effect
+        to prevent looping temperature shocks.
+  id: 152
+  time: '2024-10-03T19:58:01.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/222
+- author: Xavier
+  changes:
+    - type: Add
+      message: New mini hypospray that epistemics can research!
+  id: 153
+  time: '2024-10-05T18:46:51.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/210
+- author: Fansana
+  changes:
+    - type: Tweak
+      message: adjusted antag rules
+  id: 154
+  time: '2024-10-06T15:22:42.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/235
+- author: Fansana
+  changes:
+    - type: Fix
+      message: Fix the swat mask hair bug. Long life the baldberg.
+  id: 155
+  time: '2024-10-06T18:58:15.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/236
+- author: Memeji
+  changes:
+    - type: Tweak
+      message: Reduced the max amount of traitors in a shift.
+  id: 156
+  time: '2024-10-07T05:30:29.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/238
+- author: Fansana
+  changes:
+    - type: Add
+      message: Added day night cycle
+  id: 157
+  time: '2024-10-08T00:20:33.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/240
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: Upstream merge. The the Einstein-Engines changelog tab for more details.
+  id: 158
+  time: '2024-10-08T00:29:47.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/223
+- author: FoxxoTrystan
+  changes:
+    - type: Add
+      message: Artificial Bluespace Crystals!
+  id: 159
+  time: '2024-10-08T01:10:45.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/244
+- author: FoxxoTrystan
+  changes:
+    - type: Add
+      message: Blackeye-Shadowkins!
+  id: 160
+  time: '2024-10-09T02:01:11.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/245
+- author: Fansana
+  changes:
+    - type: Fix
+      message: Fixes the arrivals shuttle choosing to correct docking port.
+  id: 161
+  time: '2024-10-11T03:02:14.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/251
+- author: Fansana
+  changes:
+    - type: Tweak
+      message: Add lizard tail to IPCs
+  id: 162
+  time: '2024-10-11T09:04:16.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/253
+- author: Fansana
+  changes:
+    - type: Fix
+      message: spider webs making spider invisible
+  id: 163
+  time: '2024-10-11T09:25:51.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/254
+- author: Fansana
+  changes:
+    - type: Fix
+      message: Latejoin antag selection should respect player's antag preferences.
+  id: 164
+  time: '2024-10-11T11:48:32.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/252
+- author: fenndragon
+  changes:
+    - type: Add
+      message: Added Xeno companion crate and accompanying event
+    - type: Fix
+      message: 'Fixed Specific ventcritters events and re-enabled them '
+  id: 165
+  time: '2024-10-12T23:08:26.0000000+00:00'
+  url: https://github.com/Fansana/floofstation1/pull/247

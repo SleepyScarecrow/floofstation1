@@ -17,6 +17,7 @@
   naming: FirstDashLast
   sexes:
   - Unsexed
+  customName: true
 
 # The lack of a layer means that
 # this person cannot have round-start anything
@@ -154,7 +155,7 @@
 - type: marking
   id: MobIPCLLegDefault
   bodyPart: LLeg
-  markingCategory: RightLeg
+  markingCategory: LeftLeg
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
@@ -168,7 +169,7 @@
 - type: marking
   id: MobIPCLArmDefault
   bodyPart: LArm
-  markingCategory: RightArm
+  markingCategory: LeftArm
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
@@ -182,7 +183,7 @@
 - type: marking
   id: MobIPCLHandDefault
   bodyPart: LHand
-  markingCategory: RightArm
+  markingCategory: LeftHand
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
@@ -196,7 +197,7 @@
 - type: marking
   id: MobIPCLFootDefault
   bodyPart: LFoot
-  markingCategory: RightLeg
+  markingCategory: LeftFoot
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
@@ -238,7 +239,7 @@
 - type: marking
   id: MobIPCRHandDefault
   bodyPart: RHand
-  markingCategory: RightArm
+  markingCategory: RightHand
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
@@ -252,7 +253,7 @@
 - type: marking
   id: MobIPCRFootDefault
   bodyPart: RFoot
-  markingCategory: RightLeg
+  markingCategory: RightFoot
   speciesRestriction: [IPC]
   sprites:
   - sprite: Mobs/Species/IPC/parts.rsi
